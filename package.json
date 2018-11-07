@@ -1,10 +1,10 @@
 {
   "name": "eslint-config-liferay-react",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "ESLint configuration for Liferay Portlet modules, compatible with Liferay's SourceFormatter default guidelines",
   "main": "index.js",
-  "engines" : {
-    "node" : ">=8.0.0"
+  "engines": {
+    "node": ">=8.0.0"
   },
   "scripts": {},
   "keywords": [
