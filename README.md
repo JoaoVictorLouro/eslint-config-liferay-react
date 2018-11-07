@@ -13,10 +13,6 @@ If you wish to ditch this or customize it, here are it's contents:
 
 "eslint-plugin-import": "2.14.0"
 
-"eslint-plugin-jsx-a11y": "6.1.2"
-
-"eslint-plugin-prettier": "3.0.0"
-
 "eslint-plugin-react": "7.11.1"
 
 (just install those onto your project with npm install!)
